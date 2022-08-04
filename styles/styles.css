@@ -1,4 +1,4 @@
-/* Grow */
+/* Bob */
 @-webkit-keyframes hvr-bob {
     0% {
       -webkit-transform: translateY(-8px);
@@ -62,7 +62,7 @@
     -webkit-animation-direction: normal, alternate;
     animation-direction: normal, alternate;
   }
-
+/* Sweep right */
 .hvr-sweep-to-right {
     display: inline-block;
     vertical-align: middle;
@@ -102,7 +102,7 @@
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
   }
-
+/* Pluse */
   @-webkit-keyframes hvr-back-pulse {
     50% {
       background-color: rgba(25, 135, 84, 0.75);
@@ -140,7 +140,7 @@
     background-color: #16774a;
     color: white;
   }
-
+/* Bounce to bottom */
   .hvr-bounce-to-bottom {
     display: inline-block;
     vertical-align: middle;
@@ -182,7 +182,7 @@
     -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
     transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
   }
-
+/* Underline */
   .hvr-underline-from-center {
     display: inline-block;
     vertical-align: middle;
