@@ -1,3 +1,25 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  }
+.button {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  }
+
+.service-item {
+  min-height: 264px;
+}
+
 /* Bob */
 @-webkit-keyframes hvr-bob {
     0% {
